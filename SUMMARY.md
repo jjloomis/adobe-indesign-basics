@@ -27,6 +27,7 @@
 ## Working with shapes, strokes, and color
 * Creating a shape
 * Creating a stroke
-* Changing the weight of a stoke
+* Changing the weight of a stroke
 * [Changing the fill color of a shape](changing-a-shapes-fill-color.md)
+* Creating a custom color
 
