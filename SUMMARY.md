@@ -18,7 +18,7 @@
 * [Formatting text](formatting-text.md)
 
 ## Working with images
-* Adding an image to your Document
+* [Adding an image to your Document](adding-an-image-to-your-document.md)
 * Resizing an image and its frame
 * Resizing and repositioning an image in its frame
 * Changing object stacking order
