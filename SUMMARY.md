@@ -15,7 +15,7 @@
 * [Resizing a text box](resizing-a-text-box.md)
 * [Deleting a text box](deleting-a-text-box.md)
 * [Using overset text button](using-overset-text-button.md)
-* Formatting text
+* [Formatting text](formatting-text.md)
 
 ## Working with images
 * Adding an image to your Document
