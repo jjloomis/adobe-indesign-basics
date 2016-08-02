@@ -14,7 +14,7 @@
 * [Moving a text box](moving-a-text-box.md)
 * [Resizing a text box](resizing-a-text-box.md)
 * [Deleting a text box](deleting-a-text-box.md)
-* Using overset text button
+* [Using overset text button](using-overset-text-button.md)
 * Formatting text
 
 ## Working with images
