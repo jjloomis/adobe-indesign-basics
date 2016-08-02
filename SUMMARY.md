@@ -9,7 +9,7 @@
 * Creating a new Document
 
 ## Working with text
-* Creating a text box
+* [Creating a text box](creating-a-text-box.md)
 * Moving a text box
 * Resizing a text box
 * Using overset text button
@@ -22,4 +22,8 @@
 * Resizing and repositioning an image in its frame
 * Changing object stacking order
 * Wrapping text to an image
+
+## Working with shapes and strokes
+* Creating a shape
+* [Changing the fill color of a shape](changing-a-shapes-fill-color.md)
 
