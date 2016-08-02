@@ -4,7 +4,7 @@
 
 ## Setting up your project
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
-* Creating a project folder
+* [Creating a project folder](creating-a-project-folder.md)
 * Opening InDesign
 * Creating a new Document
 * Saving your project
