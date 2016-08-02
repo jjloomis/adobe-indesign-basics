@@ -26,11 +26,13 @@
 * Deleting an image
 
 ## Working with shapes, strokes, and color
-* Creating a shape
+* [Creating a shape](creating-a-shape.md)
 * Creating a stroke
 * Changing the weight of a stroke
 * [Changing the fill color of a shape](changing-a-shapes-fill-color.md)
 * Creating a custom color
 * Adding a gradient to an object
 * Adding an effect to an object
+
+## Working with layers
 
