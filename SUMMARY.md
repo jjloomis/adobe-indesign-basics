@@ -3,10 +3,11 @@
 * [Introduction](README.md)
 
 ## Setting up your project
-* Connecting to your class folder
+* [Connecting to your class folder](connecting-to-your-class-folder.md)
 * Creating a project folder
 * Opening InDesign
 * Creating a new Document
+* Saving your project
 
 ## Working with text
 * [Creating a text box](creating-a-text-box.md)
@@ -30,4 +31,6 @@
 * Changing the weight of a stroke
 * [Changing the fill color of a shape](changing-a-shapes-fill-color.md)
 * Creating a custom color
+* Adding a gradient to an object
+* Adding an effect to an object
 
