@@ -36,5 +36,9 @@
 
 ## Working with layers
 
+## Creating a stylesheet
+
+## Creating a layout
+
 ## Exporting a PDF
 
