@@ -22,8 +22,11 @@
 * Resizing and repositioning an image in its frame
 * Changing object stacking order
 * Wrapping text to an image
+* Deleting an image
 
-## Working with shapes and strokes
+## Working with shapes, strokes, and color
 * Creating a shape
+* Creating a stroke
+* Changing the weight of a stoke
 * [Changing the fill color of a shape](changing-a-shapes-fill-color.md)
 
