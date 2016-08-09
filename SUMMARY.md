@@ -30,8 +30,9 @@
 * [Changing the fill color of a shape](changing-a-shapes-fill-color.md)
 * [Creating a stroke](creating-a-stroke.md)
 * Changing the color of a stroke
-* Changing the weight of a stroke
+* [Changing the weight of a stroke](changing-the-weight-of-a-stroke.md)
 * [Creating a custom color](creating-a-custom-color.md)
+* [Creating a gradient](creating-a-gradient.md)
 * Adding a gradient to an object
 * Adding an effect to an object
 
