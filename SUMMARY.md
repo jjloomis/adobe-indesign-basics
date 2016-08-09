@@ -34,7 +34,7 @@
 * [Creating a custom color](creating-a-custom-color.md)
 * [Creating a gradient](creating-a-gradient.md)
 * Adding a gradient to an object
-* Adding an effect to an object
+* [Adding an effect to an object](adding-an-effect-to-an-object.md)
 
 ## Working with layers
 
