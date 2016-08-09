@@ -30,11 +30,11 @@
 * [Creating a shape](creating-a-shape.md)
 * [Changing the fill color of a shape](changing-a-shapes-fill-color.md)
 * [Creating a stroke](creating-a-stroke.md)
-* Changing the color of a stroke
+* [Changing the color of a stroke](changing-the-color-of-a-stroke.md)
 * [Changing the weight of a stroke](changing-the-weight-of-a-stroke.md)
 * [Creating a custom color](creating-a-custom-color.md)
 * [Creating a gradient](creating-a-gradient.md)
-* Adding a gradient to an object
+* [Adding a gradient to an object](adding-a-gradient-to-an-object.md)
 * [Adding an effect to an object](adding-an-effect-to-an-object.md)
 
 ## Working with layers
@@ -44,4 +44,5 @@
 ## Creating a layout
 
 ## Exporting a PDF
+* [Exporting a PDF](exporting-a-pdf.md)
 
