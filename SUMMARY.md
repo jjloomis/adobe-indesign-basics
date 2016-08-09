@@ -7,6 +7,7 @@
 * [Creating a project folder](creating-a-project-folder.md)
 * [Opening InDesign](opening-indesign.md)
 * [Creating a new Document](creating-a-new-document.md)
+* [Opening an existing InDesign project](opening-an-existing-indesign-project.md)
 * [Saving your project](saving-your-project.md)
 
 ## Working with text
