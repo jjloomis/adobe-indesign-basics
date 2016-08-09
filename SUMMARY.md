@@ -23,14 +23,15 @@
 * [Resizing and repositioning an image in its frame](resizing-and-repositioning-an-image-in-its-frame.md)
 * [Changing object stacking order](changing-object-stacking-order.md)
 * [Wrapping text to an image](wrapping-text-to-an-image.md)
-* Deleting an image
+* [Deleting an image](deleting-an-image.md)
 
 ## Working with shapes, strokes, and color
 * [Creating a shape](creating-a-shape.md)
-* Creating a stroke
-* Changing the weight of a stroke
 * [Changing the fill color of a shape](changing-a-shapes-fill-color.md)
-* Creating a custom color
+* [Creating a stroke](creating-a-stroke.md)
+* Changing the color of a stroke
+* Changing the weight of a stroke
+* [Creating a custom color](creating-a-custom-color.md)
 * Adding a gradient to an object
 * Adding an effect to an object
 
