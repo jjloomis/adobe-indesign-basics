@@ -19,7 +19,7 @@
 
 ## Working with images
 * [Adding an image to your Document](adding-an-image-to-your-document.md)
-* Resizing an image and its frame
+* [Resizing an image and its frame](resizing-an-image-and-its-frame.md)
 * Resizing and repositioning an image in its frame
 * Changing object stacking order
 * Wrapping text to an image
