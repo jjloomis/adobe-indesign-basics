@@ -22,7 +22,7 @@
 * [Resizing an image and its frame](resizing-an-image-and-its-frame.md)
 * [Resizing and repositioning an image in its frame](resizing-and-repositioning-an-image-in-its-frame.md)
 * [Changing object stacking order](changing-object-stacking-order.md)
-* Wrapping text to an image
+* [Wrapping text to an image](wrapping-text-to-an-image.md)
 * Deleting an image
 
 ## Working with shapes, strokes, and color
