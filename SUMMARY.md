@@ -21,7 +21,7 @@
 * [Adding an image to your Document](adding-an-image-to-your-document.md)
 * [Resizing an image and its frame](resizing-an-image-and-its-frame.md)
 * [Resizing and repositioning an image in its frame](resizing-and-repositioning-an-image-in-its-frame.md)
-* Changing object stacking order
+* [Changing object stacking order](changing-object-stacking-order.md)
 * Wrapping text to an image
 * Deleting an image
 
