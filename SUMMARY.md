@@ -19,6 +19,10 @@
 * [Formatting text](formatting-text.md)
 
 ## Working with tools
+* [Selection tools](selection-tools.md)
+* Drawing and type tools
+* Transformation tools
+* Modification and navigation tools
 
 ## Working with images
 * [Adding an image to your Document](adding-an-image-to-your-document.md)
