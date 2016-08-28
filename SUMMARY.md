@@ -18,6 +18,8 @@
 * [Using overset text button](using-overset-text-button.md)
 * [Formatting text](formatting-text.md)
 
+## Working with tools
+
 ## Working with images
 * [Adding an image to your Document](adding-an-image-to-your-document.md)
 * [Resizing an image and its frame](resizing-an-image-and-its-frame.md)
