@@ -21,7 +21,7 @@
 ## Working with tools
 * [Selection tools](selection-tools.md)
 * [Drawing and type tools](drawing-and-type-tools.md)
-* Transformation tools
+* [Transformation tools](transformation-tools.md)
 * Modification and navigation tools
 
 ## Working with images
