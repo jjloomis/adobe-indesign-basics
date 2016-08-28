@@ -22,7 +22,7 @@
 * [Selection tools](selection-tools.md)
 * [Drawing and type tools](drawing-and-type-tools.md)
 * [Transformation tools](transformation-tools.md)
-* Modification and navigation tools
+* [Modification and navigation tools](modification-and-navigation-tools.md)
 
 ## Working with images
 * [Adding an image to your Document](adding-an-image-to-your-document.md)
