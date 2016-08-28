@@ -1,7 +1,5 @@
 # Drawing and type tools
 
-16
-
 | Tool | Action |
 | --- | --- |
 | Type |  |
