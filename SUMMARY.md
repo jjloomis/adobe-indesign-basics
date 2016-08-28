@@ -20,7 +20,7 @@
 
 ## Working with tools
 * [Selection tools](selection-tools.md)
-* Drawing and type tools
+* [Drawing and type tools](drawing-and-type-tools.md)
 * Transformation tools
 * Modification and navigation tools
 
