@@ -10,8 +10,8 @@
 | Delete Anchor Point | Click to remove an anchor point from a vector path. |
 | Convert Direction Point | Click an anchor point to convert it to a smooth point with direction handles (or vice versa.) |
 | Pencil | Click and drag to create a streak of the Stroke color. |
-| Smooth | |
-| Erase | |
+| Smooth | Click and drag over superflous anchor points on a path to remove them. |
+| Erase | Click and drag along a selected path to remove a portion of the path. |
 | Rectangle Frame | |
 | Ellipse Frame | |
 | Polygon Frame | |
