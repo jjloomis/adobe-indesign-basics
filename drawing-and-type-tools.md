@@ -2,8 +2,8 @@
 
 | Tool | Action |
 | --- | --- |
-| Type |  |
-| Type On a Path | |
+| Type | Click and drag to create a text box. Click within a text box to edit or format the text. |
+| Type On a Path |  |
 | Line | |
 | Pen | |
 | Add Anchor Point | |
