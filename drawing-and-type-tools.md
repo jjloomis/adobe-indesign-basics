@@ -12,12 +12,12 @@
 | Pencil | Click and drag to create a streak of the Stroke color. |
 | Smooth | Click and drag over superflous anchor points on a path to remove them. |
 | Erase | Click and drag along a selected path to remove a portion of the path. |
-| Rectangle Frame | |
-| Ellipse Frame | |
-| Polygon Frame | |
-| Rectangle | |
-| Ellipse | |
-| Polygon | |
+| Rectangle Frame | Click and drag to create a rectangle placeholder. (Shift-click and to create a square.) Placeholder can be filled with text or an image. |
+| Ellipse Frame | Click and drag to create an ellipse placeholder. (Shift-click and drag to create a circle.) Placeholder can be filled with text or an image. |
+| Polygon Frame | Click and drag to create a polygon placeholder. (Shift-click and drag to constrain proportions.) Placeholder can be filled with text or an image. (Note: Click Document to set Number of Sides for Polygon Frame.) |
+| Rectangle | Click and drag to create a rectangle shape. (Shift-click and drag to create a square.) Shape can be modified with Fill, Stroke, and Gradient controls. |
+| Ellipse | Click and drag to create an ellipse. (Shift-click and drag to create a circle.) Shape can be modified with Fill, Stroke, and Gradient controls. |
+| Polygon | Click and drag to create a polygon shape. (Shift-click and drag to constrain proportions.) Shape can be modified with Fill, Stroke, and Gradient controls. (Note: Click Document to set Number of Sides for Polygon. |
 
 
 
