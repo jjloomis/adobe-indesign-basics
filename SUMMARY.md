@@ -18,7 +18,7 @@
 * [Using overset text button](using-overset-text-button.md)
 * [Formatting text](formatting-text.md)
 * [Character Formatting Controls](character-formatting-controls.md)
-* Paragraph Formatting Controls
+* [Paragraph Formatting Controls](paragraph-formatting-controls.md)
 
 ## Working with tools
 * [Selection tools](selection-tools.md)
