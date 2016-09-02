@@ -17,6 +17,8 @@
 * [Deleting a text box](deleting-a-text-box.md)
 * [Using overset text button](using-overset-text-button.md)
 * [Formatting text](formatting-text.md)
+* [Character Formatting Controls](character-formatting-controls.md)
+* Paragraph Formatting Controls
 
 ## Working with tools
 * [Selection tools](selection-tools.md)
