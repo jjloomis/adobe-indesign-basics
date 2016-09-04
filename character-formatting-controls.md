@@ -16,11 +16,10 @@
 | Tracking | Use the drop-down menu or manually enter a value to increase the space between letters in selected text. |
 | Vertical Scale | Use the drop-down list or manually enter a value to vertically stretch selected text. |
 | Baseline Shift | Use the drop-down menu or manually enter a value to vertically shift the bottom position of selected text. |
-| Horizontal Scale | 
-Use the drop-down list or manually enter a value to vertically stretch selected text. |
+| Horizontal Scale | Use the drop-down list or manually enter a value to vertically stretch selected text. |
 | Skew | Use the increase/ decrease buttons or manually enter a value to stretch selected text along a diagonal plane. |
-| Fill Color | Use the drop-down menu to change the font color of selected text.  |
-| Stroke Color | |
+| Fill Color | Use the drop-down menu to change the font color of selected text. A custom color can also be created and applied to selected text. |
+| Stroke Color | Use the drop-down menu to change the font color of selected text. A custom color can also be created and applied to selected text. |
 | Character Style |  |
 | Language | |
 | Justification Styles |  |
