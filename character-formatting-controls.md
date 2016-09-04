@@ -19,7 +19,7 @@
 | Horizontal Scale | 
 Use the drop-down list or manually enter a value to vertically stretch selected text. |
 | Skew | Use the increase/ decrease buttons or manually enter a value to stretch selected text along a diagonal plane. |
-| Fill Color |  |
+| Fill Color | Use the drop-down menu to change the font color of selected text.  |
 | Stroke Color | |
 | Character Style |  |
 | Language | |
