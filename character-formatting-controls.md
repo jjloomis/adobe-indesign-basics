@@ -16,9 +16,10 @@
 | Tracking | Use the drop-down menu or manually enter a value to increase the space between letters in selected text. |
 | Vertical Scale | Use the drop-down list or manually enter a value to vertically stretch selected text. |
 | Baseline Shift | Use the drop-down menu or manually enter a value to vertically shift the bottom position of selected text. |
-| Horizontal Scale |  |
-| Skew |  |
-| Fill Color | |
+| Horizontal Scale | 
+Use the drop-down list or manually enter a value to vertically stretch selected text. |
+| Skew | Use the increase/ decrease buttons or manually enter a value to stretch selected text along a diagonal plane. |
+| Fill Color |  |
 | Stroke Color | |
 | Character Style |  |
 | Language | |
