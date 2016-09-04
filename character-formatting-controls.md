@@ -15,7 +15,7 @@
 | Kerning |  |
 | Tracking | Use the drop-down menu or manually enter a value to increase the space between letters in selected text. |
 | Vertical Scale | Use the drop-down list or manually enter a value to vertically stretch selected text. |
-| Baseline Shift | Use the drop-down menu or manually enter |
+| Baseline Shift | Use the drop-down menu or manually enter a value to vertically shift the bottom position of selected text. |
 | Horizontal Scale |  |
 | Skew |  |
 | Fill Color | |
