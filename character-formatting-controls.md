@@ -13,9 +13,9 @@
 | Underline | Select the text you'd like to change. Click the Underline button to add an underline to selected text. |
 | Strikethrough | Click the Strikethrough button to add a line through the horizontal center of selected text. |
 | Kerning |  |
-| Tracking | Use the drop-down list or manually enter a value to increase the space between letters in selected text. |
+| Tracking | Use the drop-down menu or manually enter a value to increase the space between letters in selected text. |
 | Vertical Scale | Use the drop-down list or manually enter a value to vertically stretch selected text. |
-| Baseline Shift |  |
+| Baseline Shift | Use the drop-down menu or manually enter |
 | Horizontal Scale |  |
 | Skew |  |
 | Fill Color | |
