@@ -1,6 +1,6 @@
 # Selection tools
 
-| Tool | Action |
+| Tool | How it works |
 | --- | --- |
 | Selection Tool | Move or resize objects. |
 | Direct Selection Tool | Click to select the content of an object. Click an anchor point on a path to activate it and work with it. |
