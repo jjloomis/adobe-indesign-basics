@@ -1,6 +1,6 @@
 # Paragraph Formatting Controls
 
-| Tool | What it does |
+| Tool | How it works |
 | --- | --- |
 | Justification |  |
 | Left Indent |  |
