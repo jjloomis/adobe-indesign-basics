@@ -2,7 +2,7 @@
 
 | Tool | How it works |
 | --- | --- |
-| Selection Tool | Move or resize objects. |
+| Selection Tool | Click and drag to move or resize objects. |
 | Direct Selection Tool | Click to select the content of an object. Click an anchor point on a path to activate it and work with it. |
 | Page Tool | Click a Page in your document. Options bar will present drop-down menu that allows you to change the size of the Page. |
 | Gap Tool | Click and drag in the space between two obejects to change the position of the gap between them. One object will increase in size as the other decreases in size. |
