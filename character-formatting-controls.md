@@ -8,8 +8,8 @@
 | Leading | Select the text you'd like to change. Using the Leading drop-down menu, increase/ decrease buttons, or by manually entering a value, you can adjust the ammount of space above a line \(or lines\) of text. |
 | All Caps | Select the text you'd like to change. Click the All Caps button to capitalize all of the selected text. |
 | Small Caps | Select the text you'd to change. Click the Small Caps button to set the selected text to small caps \(capitalized text that is the height of lowercase letters.\) |
-| Superscript |  |
-| Subscript |  |
+| Superscript | Select the text you'd like to change. Click the Superscript button to shrink and raise the selected text.  |
+| Subscript | Select the text you'd like to change. Click the Subscript button to shrink and lower the selected text.  |
 | Underline | Select the text you'd like to change. Click the Underline button to add an underline to selected text. |
 | Strikethrough | Click the Strikethrough button to add a line through the horizontal center of selected text. |
 | Kerning |  |
