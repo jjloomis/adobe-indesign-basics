@@ -2,15 +2,15 @@
 
 | Tool | How it works |
 | --- | --- |
-| Justification Styles | Click justification buttons to align selected text to left, right, or center of text box. |
-| Left Indent | Using the increase/ decrease buttons, or by manually entering a value, you can adjust the amount of space between the left edge of the text box and the text within it. |
-| First Line Left Indent | Use the control box to adjust the amount of left indentation applied to the first line of text in each paragraph within the text box. |
-| Right Indent | Using the increase/ decrease buttons, or by manually entering a value, you can adjust the amount of space between the right edge of the text box and the text within it. |
-| Last Line Right Indent |  |
-| Space Before |  |
-| Drop Cap Number of Lines |  |
-| Space After |  |
-| Drop Cap One or More Characters |  |
+| Justification Styles | Click justification buttons to align text to left, right, or center of text box. |
+| Left Indent | Use the control box to adjust the amount of space between the left edge of the text box and the text within it. |
+| First Line Left Indent | Use the control box to adjust the amount of left indentation applied to the first line of each paragraph within the text box. |
+| Right Indent | Use the control box to adjust the amount of space between the right edge of the text box and the text within it. |
+| Last Line Right Indent | Use the control box to adjust the amount of right indentation applied to the last line of each paragraph within the text box. |
+| Space Before | Use the control box to increase or decrease amount of space before a paragraph in the text box. Note: When all text in text box is selected, the space before each paragraph is applied evenly.  |
+| Drop Cap Number of Lines | Use the control box to increase or decrease the size of the first letter of a paragraph. |
+| Space After | Use the control box to increase or decrease amount of space after a paragraph in the text box. Note: When all text in text box is selected, the space after each paragraph is applied evenly. |
+| Drop Cap One or More Characters | After applying Drop Cap Number of Lines, use the control box to increase or decrease the number of characters  |
 | Bulleted List |  |
 | Numbered List |  |
 | Shading |  |
