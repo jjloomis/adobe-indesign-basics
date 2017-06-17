@@ -13,10 +13,10 @@
 | Drop Cap One or More Characters | After applying Drop Cap Number of Lines, use the control box to increase or decrease the number of characters included in the drop cap. |
 | Bulleted List | Select the text you would like to include in a bulleted list. Click the bulleted list button. Each paragraph in the selected text will have a bullet. |
 | Numbered List | Select the text you would like to include in a numbered list. Click the bulleted list button. Each paragraph in the selected text will have a sequential number. |
-| Shading | Click the Shading checkbox to apply a color  |
+| Shading | Click the Shading checkbox to apply a color to the background of a selected paragraph. Use Shading color drop-down list to set color.  |
 | Shading Color |  |
 | Paragraph Style |  |
-| Hyphenate |  |
+| Hyphenate | Select hyphenated line break text. Deselect Hyphenate checkbox to remove hyphenated line break.  |
 | Do not align to baseline grid |  |
 | Align to baseline grid |  |
 | Number of Columns |  |
