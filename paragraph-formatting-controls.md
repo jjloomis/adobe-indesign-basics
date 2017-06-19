@@ -21,8 +21,7 @@
 | Align to baseline grid | Aligns bottom of text to horizontal baseline guides. Note: This feature is off by default. |
 | Number of Columns | Use control box to set the number of columns within a selected text box. |
 | Gutter | Use control box to increase or decrease space between columns. |
-| Span Columns | Use drop-down list to set the number of columns a selected paragraph will span.  |
-| Horizontal Cursor Position |  |
+| Span Columns | Use drop-down list to set the number of columns a selected paragraph will span. |
 
 
 
