@@ -1,4 +1,4 @@
-# Character Formatting Controls
+# Character formatting controls
 
 | Control | How it works |
 | --- | --- |
