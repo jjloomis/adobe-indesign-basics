@@ -18,10 +18,10 @@
 | Paragraph Style |  |
 | Hyphenate | Select hyphenated line break text. Deselect Hyphenate checkbox to remove hyphenated line break. |
 | Do not align to baseline grid | Removes Align to baseline grid feature \(see below.\) |
-| Align to baseline grid | Aligns bottom of text to horizontal baseline guides. Note: This feature is off by default.  |
+| Align to baseline grid | Aligns bottom of text to horizontal baseline guides. Note: This feature is off by default. |
 | Number of Columns | Use control box to set the number of columns within a selected text box. |
 | Gutter | Use control box to increase or decrease space between columns. |
-| Span Columns |  |
+| Span Columns | Use drop-down list to set the number of columns a selected paragraph will span.  |
 | Horizontal Cursor Position |  |
 
 
