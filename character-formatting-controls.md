@@ -21,7 +21,6 @@
 | Fill Color | Use the drop-down menu to change the font color of selected text. A custom color can also be created and applied to selected text. |
 | Stroke Color | Use the drop-down menu to change the font color of selected text. A custom color can also be created and applied to selected text. |
 | Character Style | Click the Character Style button to create a new style based on the selected text or to apply a saved style |
-| Language |  |
 | Justification Styles | Click justification buttons to align selected text to left, right, or center of text box. |
 
 
