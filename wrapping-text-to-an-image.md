@@ -1,6 +1,6 @@
 # Wrapping text to an image
 
-To wrap text to image, the image must have a transparent background or the image must have a background color that matches the page color in InDesign (a white background and a white page, for example.)
+To wrap text to image, the image must have a transparent background or the image must have a background color that matches the page color in InDesign (a white background in the image and a white page in InDesign, for example.)
 
 1. Position an image over a text box.
 2. Change the stacking order of the image so it is beneath the text box. (Note: Leave the image selected after doing this.)
