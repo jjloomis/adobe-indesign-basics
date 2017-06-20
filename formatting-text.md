@@ -2,7 +2,7 @@
 
 1. In the toolbar, select the Type tool.
 2. Select the text you want to change.
-3. Use the Character Formatting or Paragraph Formatting toolbar to make changes to the look of your text.
+3. Use the Character formatting or Paragraph Formatting toolbar to make changes to the look of your text.
 
 
 
