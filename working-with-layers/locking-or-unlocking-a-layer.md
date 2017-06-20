@@ -2,6 +2,7 @@
 
 ## Locking a layer
 
+1. 
 1. In the Layers panel, select the layer you want to lock.
 2. Click in the empty square to the left of the layer name. A lock icon will appear in the space. 
 
