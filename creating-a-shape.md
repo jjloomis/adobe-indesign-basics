@@ -11,4 +11,9 @@ Click and drag the Shape tool to create a rectangle, elispe, or polygon on your 
 ## Manually enter values
 
 
+1. Click and hold the Shape tool in the toolbar. 
+2. In the fly-out menu, choose an elipse, rectangle, or polygon.
+3. Click once (don't click and drag) on your document. A dialog box will appear.
+4. Enter values width and height of your shape. The polygon dialog box will also provide options for number of sides (allowing you to create a star, triangle, etc.)
+
 
