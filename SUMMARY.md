@@ -52,6 +52,13 @@
 
 ## Working with layers
 
+* Selecting a layer
+* Locking or unlocking a layer
+* Changing layer visibility
+* Creating a new layer
+* Moving a layer
+* Deleting a layer
+
 ## Creating a stylesheet
 
 ## Creating a layout
