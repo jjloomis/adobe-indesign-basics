@@ -1,6 +1,6 @@
 # Creating a shape
 
-## Click and drag approach
+## Click and drag
 
 Click and drag the Shape tool to create a rectangle, elispe, or polygon on your document.
 
