@@ -56,8 +56,8 @@
 * [Locking or unlocking a layer](working-with-layers/locking-or-unlocking-a-layer.md)
 * [Changing layer visibility](working-with-layers/changing-layer-visibility.md)
 * [Creating a new layer](working-with-layers/creating-a-new-layer.md)
-* Moving a layer
-* Deleting a layer
+* [Moving a layer](working-with-layers/moving-a-layer.md)
+* [Deleting a layer](working-with-layers/deleting-a-layer.md)
 
 ## Creating a stylesheet
 
