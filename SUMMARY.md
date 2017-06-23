@@ -54,8 +54,8 @@
 
 * [Selecting a layer](working-with-layers/selecting-a-layer.md)
 * [Locking or unlocking a layer](working-with-layers/locking-or-unlocking-a-layer.md)
-* Changing layer visibility
-* Creating a new layer
+* [Changing layer visibility](working-with-layers/changing-layer-visibility.md)
+* [Creating a new layer](working-with-layers/creating-a-new-layer.md)
 * Moving a layer
 * Deleting a layer
 
