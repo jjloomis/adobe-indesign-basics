@@ -1,4 +1,4 @@
-# Creating a stroke
+# Creating a line
 
-1. Click the Stroke tool in the toolbar.
-2. Click and drag to create a stroke on your document.
+1. Click the Line tool in the toolbar.
+2. Click and drag to create a line on your document.
