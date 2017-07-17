@@ -49,7 +49,6 @@
 * [Creating a custom color](creating-a-custom-color.md)
 * [Creating a gradient](creating-a-gradient.md)
 * [Adding a gradient to an object](adding-a-gradient-to-an-object.md)
-* Adding a stroke to a shape
 
 ## Working with layers
 
