@@ -5,7 +5,7 @@
 3. Control-click the object. A fly-out menu will appear.
 4. From the fly-out menu, select Arrange.
 
-Stacking order options are:
+## Stacking order options
 
 * Send to Back: Sends object to the lowest point in the stack.
 * Bring to Front: Sends object to the top of the stack.
