@@ -1,4 +1,4 @@
-# Connecting to your class folder
+# Connecting to Your Class Folder
 
 Your InDesign project and all of the media files associated with it will live in your class folder.
 
