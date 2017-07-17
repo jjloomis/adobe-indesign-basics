@@ -4,12 +4,12 @@
 
 ## Setting up your project
 
-* [Connecting to your class folder](connecting-to-your-class-folder.md)
-* [Creating a project folder](creating-a-project-folder.md)
+* [Connecting to Your Class Folder](connecting-to-your-class-folder.md)
+* [Creating a Project Folder](creating-a-project-folder.md)
 * [Opening InDesign](opening-indesign.md)
 * [Creating a new Document](creating-a-new-document.md)
-* [Opening an existing InDesign project](opening-an-existing-indesign-project.md)
-* [Saving your project](saving-your-project.md)
+* [Creating a New Document](opening-an-existing-indesign-project.md)
+* [Saving Your Project](saving-your-project.md)
 
 ## Working with text
 
