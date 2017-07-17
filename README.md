@@ -11,11 +11,11 @@ Written by Jeffrey John Loomis
 
 ## Other formats
 
-PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/adobe-photoshop-basics/details).
+PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/adobe-indesign-basics/details).
 
 ## GitHub
 
-To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/adobe-photoshop-basics).
+To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/adobe-indesign-basics).
 
 ## License
 
