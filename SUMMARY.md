@@ -13,7 +13,7 @@
 
 ## Working with text
 
-* [Creating a text box](creating-a-text-box.md)
+* [Creating a Text Box](creating-a-text-box.md)
 * [Moving a text box](moving-a-text-box.md)
 * [Resizing a text box](resizing-a-text-box.md)
 * [Deleting a text box](deleting-a-text-box.md)
