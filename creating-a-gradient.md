@@ -7,8 +7,8 @@
 5. With a Stop Color selected, set a color for it in the Stop Color area. Repeat this process for the other Stop Color.
 6. If necessary, change the center point of the gradient by clicking and dragging the diamond above the Gradient Ramp.
 7. In the Swatch Name field, name your gradient.
-8. When finished, click OK.
-9. Your gradient will now appear as a Fill in the Swatches panel \(on the right\) and in the Fill drop down menu on the Control bar.
+8. When finished, click **OK**.
+9. Your gradient will now appear as a Fill in the Swatches panel \(on the right\) and in the Fill drop-down menu on the Control bar.
 
 
 
