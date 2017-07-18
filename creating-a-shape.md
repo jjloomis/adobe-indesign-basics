@@ -6,7 +6,7 @@ Click and drag the [Shape tool](/drawing-and-type-tools.md) to create a rectangl
 
 1. Click and hold the [Shape tool](/drawing-and-type-tools.md) in the Toolbar. 
 2. In the fly-out menu, choose an **ellipse**, **rectangle**, or **polygon**.
-3. Click and drag to create the shape on your document. To create a square, circle, or polygon with equally-sized sides, hold Shift \(on keyboard\) as you click and drag. 
+3. Click and drag to create the shape on your document. To create a square, circle, or polygon with equidistant sides, press and hold **Shift** on your keyboard as you click and drag. 
 
 ## Manually enter values
 
