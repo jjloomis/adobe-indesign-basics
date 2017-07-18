@@ -17,7 +17,7 @@
 * [Moving a Text Box](moving-a-text-box.md)
 * [Resizing a Text Box](resizing-a-text-box.md)
 * [Deleting a Text Box](deleting-a-text-box.md)
-* [Using overset text button](using-overset-text-button.md)
+* [Using Overset Text Button](using-overset-text-button.md)
 * [Formatting text](formatting-text.md)
 * [Character formatting controls](character-formatting-controls.md)
 * [Paragraph formatting controls](paragraph-formatting-controls.md)

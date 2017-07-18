@@ -1,8 +1,8 @@
-# Formatting text
+# Formatting Text
 
-1. In the toolbar, select the Type tool.
+1. Click the [Type tool](/drawing-and-type-tools.md) in the Toolbar.
 2. Select the text you want to change.
-3. Use the Character formatting or Paragraph Formatting toolbar to make changes to the look of your text.
+3. Use the [Character formatting controls](/character-formatting-controls.md) or [Paragraph formatting controls](/paragraph-formatting-controls.md) to changes the formatting of your text.
 
 
 
