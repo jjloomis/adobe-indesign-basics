@@ -36,7 +36,7 @@
 * [Resizing and Repositioning an Image in Its Frame](resizing-and-repositioning-an-image-in-its-frame.md)
 * [Changing Object Stacking Order](changing-object-stacking-order.md)
 * [Wrapping Text to an Image](wrapping-text-to-an-image.md)
-* [Deleting an image](deleting-an-image.md)
+* [Deleting an Image](deleting-an-image.md)
 
 ## Working with shapes, strokes, and color
 
