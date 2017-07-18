@@ -1,5 +1,8 @@
-# Changing the weight of a stroke
+# Changing the Weight of a Stroke
 
-1. Click the Selection Tool in the toolbar.
-2. Click within a stroke (or within a shape with a stroke.) Selection handles \(white squares\) will appear around the outside of the stroke or shape.
-3. Use the Stroke weight drop-down menu (in Control bar) to increase or decrease the weight of the stroke.
+1. Click the [Selection tool](/drawing-and-type-tools.md) in the Toolbar.
+2. Click a shape with a stroke. Selection handle will appear around the outside of the shape.
+3. In the Control bar, use the Stroke weight drop-down menu to increase or decrease the weight of the stroke.
+
+
+
