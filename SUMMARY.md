@@ -40,7 +40,7 @@
 
 ## Working with shapes, strokes, and color
 
-* [Creating a shape](creating-a-shape.md)
+* [Creating a Shape](creating-a-shape.md)
 * [Creating a line](creating-a-stroke.md)
 * [Changing the fill color of a shape](changing-a-shapes-fill-color.md)
 * [Adding a stroke to a shape](adding-a-stroke-to-a-shape.md)
