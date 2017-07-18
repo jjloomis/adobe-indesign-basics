@@ -48,7 +48,7 @@
 * [Changing the Weight of a Stroke](changing-the-weight-of-a-stroke.md)
 * [Creating a Custom Color](creating-a-custom-color.md)
 * [Creating a Gradient](creating-a-gradient.md)
-* [Adding a gradient to an object](adding-a-gradient-to-an-object.md)
+* [Adding a Gradient to an Object](adding-a-gradient-to-an-object.md)
 
 ## Working with layers
 
