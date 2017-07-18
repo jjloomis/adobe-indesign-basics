@@ -32,7 +32,7 @@
 ## Working with images
 
 * [Adding an Image to Your Document](adding-an-image-to-your-document.md)
-* [Resizing an image and its frame](resizing-an-image-and-its-frame.md)
+* [Resizing an Image and Its Frame](resizing-an-image-and-its-frame.md)
 * [Resizing and repositioning an image in its frame](resizing-and-repositioning-an-image-in-its-frame.md)
 * [Changing object stacking order](changing-object-stacking-order.md)
 * [Wrapping text to an image](wrapping-text-to-an-image.md)
