@@ -19,12 +19,12 @@
 * [Deleting a Text Box](deleting-a-text-box.md)
 * [Using Overset Text Button](using-overset-text-button.md)
 * [Formatting Text](formatting-text.md)
-* [Character formatting controls](character-formatting-controls.md)
-* [Paragraph formatting controls](paragraph-formatting-controls.md)
+* [Character Formatting Controls](character-formatting-controls.md)
+* [Paragraph Formatting Controls](paragraph-formatting-controls.md)
 
 ## Working with tools
 
-* [Selection tools](selection-tools.md)
+* [Selection Tools](selection-tools.md)
 * [Drawing and type tools](drawing-and-type-tools.md)
 * [Transformation tools](transformation-tools.md)
 * [Modification and navigation tools](modification-and-navigation-tools.md)

@@ -1,6 +1,6 @@
 # Paragraph Formatting Controls
 
-| Tool | How it works |
+| Control | How it works |
 | --- | --- |
 | Justification Styles | Click justification buttons to align text to left, right, or center of text box. |
 | Left Indent | Use the control box to adjust the amount of space between the left edge of the text box and the text within it. |
