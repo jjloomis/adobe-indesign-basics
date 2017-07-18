@@ -1,12 +1,8 @@
-# Changing the color of a stroke
+# Changing the Color of a Stroke
 
-1. Click the Selection tool in the toolbar.
-2. Click within the shape. Selection handles \(white squares\) will appear around the outside of the shape.
-3. Click the Stroke drop-down menu (in Control bar) and select a stroke color.
-
-
-
-
+1. Click the [Selection tool](/drawing-and-type-tools.md) in the Toolbar.
+2. Click within the shape. Selection handles will appear around the outside of the shape.
+3. In the Control bar, click the Stroke drop-down menu. Select a stroke color.
 
 
 

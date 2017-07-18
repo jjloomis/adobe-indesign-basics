@@ -44,7 +44,7 @@
 * [Creating a Line](creating-a-stroke.md)
 * [Changing the Fill Color of a Shape](changing-a-shapes-fill-color.md)
 * [Adding a stroke to a shape](adding-a-stroke-to-a-shape.md)
-* [Changing the color of a stroke](changing-the-color-of-a-stroke.md)
+* [Changing the Color of a Stroke](changing-the-color-of-a-stroke.md)
 * [Changing the weight of a stroke](changing-the-weight-of-a-stroke.md)
 * [Creating a custom color](creating-a-custom-color.md)
 * [Creating a gradient](creating-a-gradient.md)
