@@ -49,6 +49,7 @@
 * [Removing a Stroke](removing-a-stroke.md)
 * [Creating a Gradient](creating-a-gradient.md)
 * [Adding a Gradient to an Object](adding-a-gradient-to-an-object.md)
+* [Changing the Stroke Type](changing-the-stroke-type.md)
 
 ## Working with layers
 
