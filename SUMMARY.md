@@ -43,7 +43,6 @@
 * [Creating a Shape](creating-a-shape.md)
 * [Creating a Line](creating-a-stroke.md)
 * [Changing the Fill Color of a Shape](changing-a-shapes-fill-color.md)
-* [Adding a stroke to a shape](adding-a-stroke-to-a-shape.md)
 * [Changing the Color of a Stroke](changing-the-color-of-a-stroke.md)
 * [Changing the Weight of a Stroke](changing-the-weight-of-a-stroke.md)
 * [Creating a Custom Color](creating-a-custom-color.md)
