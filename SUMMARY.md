@@ -7,8 +7,8 @@
 * [Connecting to Your Class Folder](connecting-to-your-class-folder.md)
 * [Creating a Project Folder](creating-a-project-folder.md)
 * [Opening InDesign](opening-indesign.md)
-* [Creating a new Document](creating-a-new-document.md)
-* [Creating a New Document](opening-an-existing-indesign-project.md)
+* [Creating a New Document](creating-a-new-document.md)
+* [Opening an Existing InDesign Project](opening-an-existing-indesign-project.md)
 * [Saving Your Project](saving-your-project.md)
 
 ## Working with text
