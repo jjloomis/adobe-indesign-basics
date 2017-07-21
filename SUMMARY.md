@@ -48,6 +48,7 @@
 * [Creating a Custom Color](creating-a-custom-color.md)
 * [Creating a Gradient](creating-a-gradient.md)
 * [Adding a Gradient to an Object](adding-a-gradient-to-an-object.md)
+* [Removing a Stroke](removing-a-stroke.md)
 
 ## Working with layers
 
