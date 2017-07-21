@@ -56,8 +56,8 @@
 * [Locking or Unlocking a Layer](working-with-layers/locking-or-unlocking-a-layer.md)
 * [Changing Layer Visibility](working-with-layers/changing-layer-visibility.md)
 * [Creating a New Layer](working-with-layers/creating-a-new-layer.md)
-* [Moving a layer](working-with-layers/moving-a-layer.md)
-* [Deleting a layer](working-with-layers/deleting-a-layer.md)
+* [Moving a Layer](working-with-layers/moving-a-layer.md)
+* [Deleting a Layer](working-with-layers/deleting-a-layer.md)
 
 ## Exporting a PDF
 
