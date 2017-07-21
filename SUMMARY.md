@@ -42,13 +42,13 @@
 
 * [Creating a Shape](creating-a-shape.md)
 * [Creating a Line](creating-a-stroke.md)
+* [Creating a Custom Color](creating-a-custom-color.md)
 * [Changing the Fill Color of a Shape](changing-a-shapes-fill-color.md)
 * [Changing the Color of a Stroke](changing-the-color-of-a-stroke.md)
 * [Changing the Weight of a Stroke](changing-the-weight-of-a-stroke.md)
-* [Creating a Custom Color](creating-a-custom-color.md)
+* [Removing a Stroke](removing-a-stroke.md)
 * [Creating a Gradient](creating-a-gradient.md)
 * [Adding a Gradient to an Object](adding-a-gradient-to-an-object.md)
-* [Removing a Stroke](removing-a-stroke.md)
 
 ## Working with layers
 
