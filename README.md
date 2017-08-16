@@ -1,5 +1,4 @@
 # Adobe InDesign CC 2017 Basics
-Adobe InDesign CC 2017 Basics. Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
 
 ## About
 
