@@ -1,8 +1,8 @@
-# Adobe InDesign CC 2017 Basics
+# Adobe InDesign 2020 Basics \| Lab Edition \(macOS\)
 
 ## About
 
-Adobe InDesign CC 2017 instructions for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/ "Journalism, Advertising, and Media Studies website") students at [UW-Milwaukee](http://uwm.edu/ "UW–Milwaukee website").
+Adobe InDesign 2020 Basics \| Lab Edition \(macOS\) instructions for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/ "Journalism, Advertising, and Media Studies website") students at [UW-Milwaukee](http://uwm.edu/ "UW–Milwaukee website").
 
 ## Credits
 
