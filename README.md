@@ -1,8 +1,8 @@
-# Adobe InDesign 2020 Basics \| Lab Edition \(macOS\)
+# Introduction
 
 ## About
 
-Adobe InDesign 2020 Basics \| Lab Edition \(macOS\) instructions for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/ "Journalism, Advertising, and Media Studies website") students at [UW-Milwaukee](http://uwm.edu/ "UW–Milwaukee website").
+Adobe InDesign 2021 Basics \| macOS Basics instructions for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
 
 ## Credits
 

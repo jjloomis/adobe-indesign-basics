@@ -11,5 +11,3 @@
 1. Click the Layers tab \(on right\) to expand the Layers panel.
 2. In the Layers panel, click the **lock icon** to the left of the layer name. The lock icon will disappear. 
 
-
-
